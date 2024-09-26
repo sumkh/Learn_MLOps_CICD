@@ -31,9 +31,8 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-python.vscode-pylance",
-				"GitHub.copilot-nightly",
-				"GitHub.copilot-labs",
-				"ms-vscode.makefile-tools"
+				"ms-vscode.makefile-tools",
+				"GitHub.copilot"
 			]
 		}
 	},
